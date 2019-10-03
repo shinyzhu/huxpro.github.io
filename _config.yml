@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     shinyzhu
+#weibo_username:     shinyzhu
 #zhihu_username:     shinyzhu
 github_username:    shinyzhu
 twitter_username:   shinyzhu
