@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     shinyzhu
 #zhihu_username:     shinyzhu
 github_username:    shinyzhu
@@ -26,7 +26,7 @@ facebook_username:  shinyzhu
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -59,12 +59,12 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: shinyzhu
 
 # Duoshuo settings
-duoshuo_username: shinyzhu
+#duoshuo_username: shinyzhu
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 # Netease settings
 netease_comment: false
@@ -109,6 +109,6 @@ page-mathjax: false
 friends: [
     {
         title: "Edi Wang",
-        href: "http://edi.wang/"
+        href: "https://edi.wang/"
     }
 ]
