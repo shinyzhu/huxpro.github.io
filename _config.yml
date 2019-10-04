@@ -3,8 +3,8 @@ title: IT's Shiny
 SEOTitle: IT's Shiny
 header-img: img/home-bg.jpg
 email: shiny@shinyzhu.com
-description: ""
-keyword: ""
+description: "Shiny is a software engineer works on front end, back end, EDW, BI and AI and much more. Dive into air travel industry for 10+ years. Awarded as Microsoft MVP from 2008 to 2019. Love developer community and now working as advocate PM at Microsoft."
+keyword: "shiny, shinyzhu, shiny zhu, airtravel, air travel, mvp, advocate, evangelist, travelsky, iata ndc"
 url: "https://shinyzhu.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -17,8 +17,8 @@ RSS: true
 #zhihu_username:     shinyzhu
 github_username:    shinyzhu
 twitter_username:   shinyzhu
-facebook_username:  shinyzhu
-# linkedin_username:  firstname-lastname-idxxxx
+#facebook_username:  shinyzhu
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -83,7 +83,7 @@ ga_domain: shinyzhu.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A programmer, working on airline products about marketing, revenue management, Microsoft MVP."
+sidebar-about-description: "Shiny is a software engineer works on front end, back end, EDW, BI and AI and much more. Dive into air travel industry for 10+ years. Awarded as Microsoft MVP from 2008 to 2019. Love developer community and now working as advocate PM at Microsoft."
 sidebar-avatar: /img/avatar-shiny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
