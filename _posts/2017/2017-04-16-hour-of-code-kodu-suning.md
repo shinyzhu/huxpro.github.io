@@ -4,7 +4,7 @@ title: "Hour of Code - Kodu少儿编程思维训练营活动后记"
 subtitle: "MVP社区与苏宁微软零售店携手举办 “Hour of Code - Kodu少儿编程思维训练营” 公益活动在上海浦东苏宁微软零售店成功举办"
 date: 2017-04-16 22:00:00
 author: "Shiny"
-header-img: "assets/img/hour-of-code-banner.jpg"
+header-img: "assets/img/2017/hour-of-code-banner.jpg"
 catalog: true
 tags:
     - mvp
@@ -31,7 +31,7 @@ tags:
 
 ### 目标和创意相结合的训练
 
-![hour-of-code-kodu](/assets/img/hour-of-code-kodu.jpg)
+![hour-of-code-kodu](assets/img/2017/hour-of-code-kodu.jpg)
 
 本次训练营的课程分为三个任务：
 
@@ -39,15 +39,15 @@ tags:
 2. 多人控制，实现a)通过不同的控制方式实现场景中多个Kodu和b)控制Kodu吃掉场景中的苹果。
 3. 自由创意，在熟悉了多种道具之后发挥自己的想象并用Kodu来实现。
 
-![hour-of-code-guide](/assets/img/hour-of-code-guide.jpg)
+![hour-of-code-guide](assets/img/2017/hour-of-code-guide.jpg)
 
 孩子们对于电脑的操作都很熟悉，对于Kodu都能非常快速上手。很多孩子甚至不需要家长或老师的帮助就能完成课程任务。同时在自由创意阶段想象力丰富，并能通过Kodu实现目标。
 
-![hour-of-code-suning-cert](/assets/img/hour-of-code-suning-cert.jpg)
+![hour-of-code-suning-cert](assets/img/2017/hour-of-code-suning-cert.jpg)
 
 最后，微软零售店店长Bobo给每一位孩子颁发了签名的获奖证书。
 
-![hour-of-code-store](/assets/img/hour-of-code-store.jpg)
+![hour-of-code-store](assets/img/2017/hour-of-code-store.jpg)
 
 ### 后记
 
