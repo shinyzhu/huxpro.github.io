@@ -57,3 +57,6 @@ tags:
 ### 怎么下载“无忧行”
 
 识别下列二维码，是我的推荐，我也不知道推荐了会有什么。
+
+![下载无忧行](/assets/img/2019/post-travel-net-appdown.jpg)
+
