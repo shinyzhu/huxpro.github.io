@@ -28,11 +28,11 @@ tags:
 
 下载好“无忧行”，用手机号注册登录后，可以看到功能非常丰富。这里只关注“**流量**”和“**电话/消息**”这两个功能，也就是对应上述两个痛点的解决方案。
 
-![IMG_6068](assets/img/2019/post-travel-net-IMG_6068.PNG)
+![IMG_6068](/assets/img/2019/post-travel-net-IMG_6068.PNG)
 
 点击流量标签，进入后在“流量包”下面选择你需要的目的地，然后可以看到比直接订购便宜4折。7天北美只需103.6元，而且是4G流量畅享。支付宝支付订购成功，等待使用。
 
-![IMG_5925](assets/img/2019/post-travel-net-IMG_5925.PNG)
+![IMG_5925](/assets/img/2019/post-travel-net-IMG_5925.PNG)
 
 使用也很简单，只要出境会自动激活。在之前，请记得打开手机的漫游开关，即切换到漫游模式，然后打开手机网络。
 
@@ -42,13 +42,13 @@ tags:
 
 拨打电话是有100分钟免费时间，而且是显示本机号码。我觉得足够用了，其他的大多时候都走微信和Facetime视频了，只需要流量。
 
-![IMG_5923](assets/img/2019/post-travel-net-IMG_5923.PNG)
+![IMG_5923](/assets/img/2019/post-travel-net-IMG_5923.PNG)
 
 至此，流量和电话短信我都能照常使用了，而且不需要租Wi-Fi那么麻烦。
 
 但是有一点我觉得有些不方便，就是虽然漫游了，但是网络还是要回国转一圈，有些服务不是很好访问就是了。
 
-![IMG_5756](assets/img/2019/post-travel-net-IMG_5756.JPG)
+![IMG_5756](/assets/img/2019/post-travel-net-IMG_5756.JPG)
 
 ### 我不是中国移动用户呢？
 
